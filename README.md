@@ -19,23 +19,30 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Vídeo: A Metamorfose Digital – Natural ou Fake Natty? 🤖✨
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um experimento audiovisual no melhor estilo 'Natural ou Fake Natty': o vídeo inicia com um apresentador aparentemente humano, mas, em uma reviravolta surpreendente, ele revela sua verdadeira identidade ao se transformar em um robô, provocando uma reflexão sobre a percepção de autenticidade no mundo digital.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Google Gemini**: Geração da imagem do avatar inicial e criação do roteiro da fala.
+- **HeyGen**: Animação facial e sincronização labial (lip-sync) para dar voz ao avatar.
+- **Viggle AI**: Renderização do efeito de transição e movimento do avatar transformando-se em robô.
+- **CapCut**: Edição final, cortes, ajustes de tempo, transições e trilha sonora.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Roteiro e Conceito Visual (Gemini):** Elaborei um roteiro rápido e direto sobre como a IA está transformando o mundo e gerei a imagem base do avatar.
+2. **Animação da Fala (HeyGen):** Importei a imagem e o roteiro no HeyGen para criar a fala com sincronia labial realista.
+3. **Efeito de Transformação (Viggle AI):** Utilizei o Viggle AI para aplicar a animação de metamorfose, convertendo o avatar humano em uma figura robótica.
+4. **Pós-Produção (CapCut):** Reuni todas as cenas no CapCut, sincronizei a transição entre o HeyGen e o Viggle AI, adicionei efeitos sonoros e finalizei a coloração do vídeo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Um vídeo de impacto que surpreende o espectador pela qualidade da animação facial e pela transição fluida para o robô, ilustrando na prática como diferentes IAs podem ser combinadas para criar uma narrativa coesa.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+- [Assista ao vídeo aqui](COLE_AQUI_O_LINK_DO_SEU_VIDEO_DRIVE_YOUTUBE_OU_LINKEDIN)
+
+## 💭 Reflexão
+Combinar ferramentas distintas (Gemini, HeyGen e Viggle AI) exigiu atenção especial à continuidade visual e ao encaixe das cenas no CapCut. O projeto provou que criar conteúdos hiper-realistas e criativos já é uma realidade acessível para qualquer pessoa.
 ```
 
 ### Exemplos e Insigths
