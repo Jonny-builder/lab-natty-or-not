@@ -39,7 +39,7 @@ Um experimento audiovisual no melhor estilo 'Natural ou Fake Natty': o vídeo in
 ## 🚀 Resultados
 Um vídeo de impacto que surpreende o espectador pela qualidade da animação facial e pela transição fluida para o robô, ilustrando na prática como diferentes IAs podem ser combinadas para criar uma narrativa coesa.
 
-- [Assista ao vídeo aqui](COLE_AQUI_O_LINK_DO_SEU_VIDEO_DRIVE_YOUTUBE_OU_LINKEDIN)
+- https://www.instagram.com/reel/Dez6VVciFVJz15nbdG4sVMNh1yNFl3A-fp-IM00/?exln=NXc5ZDh1bTVmOWpx
 
 ## 💭 Reflexão
 Combinar ferramentas distintas (Gemini, HeyGen e Viggle AI) exigiu atenção especial à continuidade visual e ao encaixe das cenas no CapCut. O projeto provou que criar conteúdos hiper-realistas e criativos já é uma realidade acessível para qualquer pessoa.
